@@ -7,6 +7,6 @@ Pledge I pledge that I have abided by the Stevens honor system
 print("Hello World")
 
 def double (x):
-    """ Thisis a function that multiply a number by two and return it"""
+    """ Thisis a function that multiplies a number by two and return it"""
     return 2 * x
 print(double(2))
